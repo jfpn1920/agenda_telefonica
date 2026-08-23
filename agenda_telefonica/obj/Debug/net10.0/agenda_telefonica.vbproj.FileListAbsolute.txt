@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\agenda_telefonica\agenda_telefonica\bin\Debug\net10.0\agenda_telefonica.exe
+C:\Users\LENOVO\OneDrive\Documentos\agenda_telefonica\agenda_telefonica\bin\Debug\net10.0\agenda_telefonica.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\agenda_telefonica\agenda_telefonica\bin\Debug\net10.0\agenda_telefonica.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\agenda_telefonica\agenda_telefonica\bin\Debug\net10.0\agenda_telefonica.dll
+C:\Users\LENOVO\OneDrive\Documentos\agenda_telefonica\agenda_telefonica\bin\Debug\net10.0\agenda_telefonica.pdb
+C:\Users\LENOVO\OneDrive\Documentos\agenda_telefonica\agenda_telefonica\obj\Debug\net10.0\agenda_telefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\agenda_telefonica\agenda_telefonica\obj\Debug\net10.0\agenda_telefonica.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\agenda_telefonica\agenda_telefonica\obj\Debug\net10.0\agenda_telefonica.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\agenda_telefonica\agenda_telefonica\obj\Debug\net10.0\agenda_telefonica.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\agenda_telefonica\agenda_telefonica\obj\Debug\net10.0\agenda_telefonica.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\agenda_telefonica\agenda_telefonica\obj\Debug\net10.0\agenda_telefonica.dll
+C:\Users\LENOVO\OneDrive\Documentos\agenda_telefonica\agenda_telefonica\obj\Debug\net10.0\refint\agenda_telefonica.dll
+C:\Users\LENOVO\OneDrive\Documentos\agenda_telefonica\agenda_telefonica\obj\Debug\net10.0\agenda_telefonica.pdb
+C:\Users\LENOVO\OneDrive\Documentos\agenda_telefonica\agenda_telefonica\obj\Debug\net10.0\agenda_telefonica.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\agenda_telefonica\agenda_telefonica\obj\Debug\net10.0\ref\agenda_telefonica.dll
